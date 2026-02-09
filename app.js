@@ -19,9 +19,9 @@ function parse(sender){
         }
     }
 
-    json["Cross-Play"] = false;
+    json["crossPlay"] = false;
     for(let [key, value] of formData.entries()){
-        if(key == "Cross-Play"){
+        if(key == "crossPlay"){
             json[key] = value === "on";
         }
     }
