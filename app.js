@@ -1,5 +1,5 @@
 const sel = document.getElementById("tag");
-const arrTags = "Action,Adventure,Building,Challenging,Choices,Co-op,Combat,Competitive,Cozy,Crafting,Creative,Exploration,Farming,First-person,Football,Hero shooter,Indie,Multiplayer,Open-world,Party,Physics,Platformer,Precision-platforming,Puzzle,Replayability,Roguelike,Rpg,Sandbox,Shooter,Simulation,Singleplayer,Social,Social deduction,Soulslike,Sports,Story,Story-driven,Strategy,Survival,Team-based,Turn-based".split(",");
+const arrTags = "Action,Adventure,Building,Challenging,Choices,Co-op,Combat,Competitive,Cozy,Crafting,Creative,Exploration,Farming,First-person,Football,Hero shooter,Indie,Multiplayer,Open-world,Party,Physics,Platformer,Precision-platforming,Puzzle,Replayability,Roguelike,Rpg,Sandbox,Shooter,Simulation,Singleplayer,Social,Social deduction,Soulslike,Sports,Story-driven,Strategy,Survival,Team-based,Turn-based".split(",");
 
 arrTags.forEach(tag =>{
     sel.innerHTML += `<input type="checkbox" id="${tag}" name="tag" value="${tag}">\n<label for="${tag}">${tag}</label><br>`;
