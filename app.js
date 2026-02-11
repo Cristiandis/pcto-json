@@ -29,7 +29,10 @@ function parse(sender){
             json[key] = value.split(",").map(item => item.trim());
         } else if(key === "tag"){
             json[key] = null;
-        } else {
+        } else if(key == "imgPath"){
+            value = "img/" + value + ".json";
+            json[key] = value;
+        } else{
             json[key] = value;
         }
     }
