@@ -1,0 +1,341 @@
+[
+{
+  "nome": "Grand Theft Auto V",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Multiplayer",
+    "Open-world",
+    "Singleplayer",
+    "Story"
+  ],
+  "prezzo": "14.99",
+  "studio": "Rockstar games",
+  "piattaforme": [
+    "Playstation",
+    "Xbox",
+    "PC",
+    "Switch"
+  ],
+  "pegi": "18",
+  "crossPlay": false
+},
+{
+  "nome": "Red Dead Redemption 2",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Multiplayer",
+    "Open-world",
+    "Shooter",
+    "Simulation",
+    "Singleplayer",
+    "Story-driven"
+  ],
+  "prezzo": "19.99",
+  "studio": "Rockstar Games",
+  "piattaforme": [
+    "Playstation",
+    "Xbox",
+    "PC",
+    "Switch"
+  ],
+  "pegi": "18",
+  "crossPlay": false
+},
+{
+  "nome": "Fortnite",
+  "tag": [
+    "Building",
+    "Competitive",
+    "Multiplayer",
+    "Shooter",
+    "Strategy"
+  ],
+  "prezzo": "0.00",
+  "studio": "Epic Games ",
+  "piattaforme": [
+    "Playstation",
+    "Xbox",
+    "PC",
+    "Switch",
+    "Mobile"
+  ],
+  "pegi": "12",
+  "crossPlay": true
+},
+{
+  "nome": "EA FC26",
+  "tag": [
+    "Competitive",
+    "Football",
+    "Multiplayer",
+    "Singleplayer",
+    "Sports"
+  ],
+  "prezzo": "79.99",
+  "studio": "Eletronic Arts",
+  "piattaforme": [
+    "Playstation",
+    "Xbox",
+    "PC",
+    "Switch"
+  ],
+  "pegi": "3",
+  "crossPlay": true
+},
+{
+  "nome": "The Last of Us Part II",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Combat",
+    "Crafting",
+    "Exploration",
+    "Puzzle",
+    "Shooter",
+    "Singleplayer",
+    "Story-driven"
+  ],
+  "prezzo": "27.99",
+  "studio": "Naughty Dog LLC",
+  "piattaforme": [
+    "Playstation",
+    "PC"
+  ],
+  "pegi": "18",
+  "crossPlay": false
+},
+{
+  "nome": "God of War Ragnarok",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Challenging",
+    "Combat",
+    "Exploration",
+    "Open-world",
+    "Soulslike",
+    "Story-driven"
+  ],
+  "prezzo": "59.99",
+  "studio": "Santa Monica Studio",
+  "piattaforme": [
+    "PC",
+    "PLAYSTATION"
+  ],
+  "pegi": "18",
+  "crossPlay": false
+},
+{
+  "nome": "Resident Evil Village",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Challenging",
+    "Co-op",
+    "Combat",
+    "Crafting",
+    "Exploration",
+    "First-person",
+    "Open-world",
+    "Singleplayer",
+    "Story-driven",
+    "Survival"
+  ],
+  "prezzo": "49.99",
+  "studio": "CAPCOM Co",
+  "piattaforme": [
+    "PC",
+    "PLAYSTATION",
+    "XBOX",
+    "SWITCH"
+  ],
+  "pegi": "18",
+  "crossPlay": false
+},
+{
+  "nome": "Elden Ring",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Co-op",
+    "Combat",
+    "Exploration",
+    "Multiplayer",
+    "Open-world",
+    "Rpg",
+    "Soulslike",
+    "Story-driven-driven"
+  ],
+  "prezzo": "59.99",
+  "studio": "From Software",
+  "piattaforme": [
+    "PC",
+    "PLAYSTATION",
+    "XBOX"
+  ],
+  "pegi": "16",
+  "crossPlay": true
+},
+{
+  "nome": "Cyberpunk 2077",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Combat",
+    "First-person",
+    "Open-world",
+    "Rpg",
+    "Shooter",
+    "Story-driven-driven"
+  ],
+  "prezzo": "29.99",
+  "studio": "CD PROJEKT RED",
+  "piattaforme": [
+    "PC",
+    "PLAYSTATION",
+    "XBOX",
+    "SWITCH"
+  ],
+  "pegi": "18",
+  "crossPlay": true
+},
+{
+  "nome": "NBA2K26",
+  "tag": [
+    "Challenging",
+    "Co-op",
+    "Competitive",
+    "First-person",
+    "Multiplayer",
+    "Simulation",
+    "Sports"
+  ],
+  "prezzo": "34.99",
+  "studio": "2K",
+  "piattaforme": [
+    "PC",
+    "PLAYSTATION",
+    "XBOX",
+    "SWITCH"
+  ],
+  "pegi": "3",
+  "crossPlay": true
+},
+{
+  "nome": "Hitman 3",
+  "tag": [
+    "Action",
+    "Combat",
+    "Open-world",
+    "Puzzle",
+    "Shooter",
+    "Story-driven",
+    "Strategy"
+  ],
+  "prezzo": "29.99",
+  "studio": "IO interactive",
+  "piattaforme": [
+    "PC",
+    "XBOX",
+    "SWITCH"
+  ],
+  "pegi": "18",
+  "crossPlay": false
+},
+{
+  "nome": "Death Stranding 2",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Building",
+    "Combat",
+    "Crafting",
+    "Exploration",
+    "Open-world",
+    "Shooter",
+    "Singleplayer",
+    "Story-driven",
+    "Strategy"
+  ],
+  "prezzo": "69.99",
+  "studio": "KOJIMA PRODUCTIONS",
+  "piattaforme": [
+    "PC",
+    "PLAYSTATION"
+  ],
+  "pegi": "18",
+  "crossPlay": true
+},
+{
+  "nome": "Forza Horizon 5",
+  "tag": [
+    "Challenging",
+    "Co-op",
+    "Competitive",
+    "Open-world",
+    "Singleplayer",
+    "Sports"
+  ],
+  "prezzo": "69.99",
+  "studio": "Xbox Games Studios",
+  "piattaforme": [
+    "PC",
+    "PLAYSTATION",
+    "XBOX"
+  ],
+  "pegi": "12",
+  "crossPlay": true
+},{
+  "nome": "Ghost of Yotei",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Challenging",
+    "Combat",
+    "Exploration",
+    "Open-world",
+    "Replayability",
+    "Singleplayer",
+    "Soulslike",
+    "Story-driven"
+  ],
+  "prezzo": "69.99",
+  "studio": "Sucker Punch Productions",
+  "piattaforme": [
+    "PLAYSTATION"
+  ],
+  "pegi": "18",
+  "crossPlay": false
+},{
+  "nome": "The Elder Scrolls V:Skyrim",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Challenging",
+    "Choices",
+    "Combat",
+    "Crafting",
+    "Exploration",
+    "Farming",
+    "First-person",
+    "Open-world",
+    "Replayability",
+    "Singleplayer",
+    "Soulslike",
+    "Story-driven"
+  ],
+  "prezzo": "19.99",
+  "studio": "Bethesda Game Studio",
+  "piattaforme": [
+    "PLAYSTATION",
+    "PC",
+    "XBOX"
+  ],
+  "pegi": "18",
+  "crossPlay": false
+}
+
+
+]
